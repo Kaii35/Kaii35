@@ -1,4 +1,3 @@
-The most beautiful idea of ​​programming is: If you imagine it, you can achieve it. </>
 
 - 👋 Hi, I’m Jose
 - 👀 I’m interested in Blockchain
