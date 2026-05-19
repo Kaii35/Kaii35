@@ -156,7 +156,7 @@ Cryptography I can defend — not magic, not vibes-only.
   <img src="https://img.shields.io/badge/LinkedIn-Jose%20García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050507" alt="linkedin" />
 </a>
 &nbsp;
-<a href="[https://www.instagram.com/jxse.kai/](https://www.instagram.com/jose_.kai/)">
+<a href="https://www.instagram.com/jose_.kai/">
   <img src="https://img.shields.io/badge/Instagram-%40jxse.kai-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050507" alt="instagram" />
 </a>
 
